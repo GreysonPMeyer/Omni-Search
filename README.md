@@ -1,5 +1,5 @@
-# Project-Leonardo
-Welcome to the Project-Leonardo! This tool helps users find similar art pieces based on input parameters and art type by analyzing and comparing the input art image with images in a restricted version of the OmniArt Dataset. Whether you're an artist seeking inspiration or simply curious about art, this project provides an easy way to discover similar artwork.
+# Omni Search
+Welcome to the Omni Search! This tool helps users find similar art pieces based on input parameters and art type by analyzing and comparing the input art image with images in a restricted version of the OmniArt Dataset. Whether you're an artist seeking inspiration or simply curious about art, this project provides an easy way to discover similar artwork.
 
 ## Table of Contents
 1. [About](#about)
@@ -21,7 +21,7 @@ The system extracts key features and provides a list of similar art pieces from 
 - **Art Style Recognition:** Detect and match art styles 
 - **Similarity Search:** Find similar artworks based on input parameters and types.
 - **Intuitive Interface:** Easy to use interface for uploading and displaying results.
-- **Customizable Parameters:** Users can adjust parameters such as style preference.
+- **Customizable Parameters:** Users can adjust the balance between color and composition.
 - **Scalable Database:** Capable of searching through a large number of art pieces.
 
 ## App <a name="app"></a>
