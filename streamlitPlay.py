@@ -160,7 +160,7 @@ if submit_button:
         # print(url)
         # df = pd.read_parquet(url, engine="pyarrow")
         # dataset_list = ["/Users/greysonmeyer/Downloads/resized_images_chunk_modfied_105.h5"]
-        img_color, color_title, img_comp, comp_title, img_overall, overall_title = display_art(st.session_state.image_array, st.session_state.slider, "All")
+        img_color, color_title, img_comp, comp_title, img_overall, overall_title = display_art(st.session_state.image_array, st.session_state.slider)
         images = [img_color, img_comp, img_overall]
         # color_image = Image.open(img_color)
         # comp_image = Image.open(img_comp)
